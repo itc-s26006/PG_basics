@@ -1,8 +1,16 @@
 def f(s):
-    return s/2*4
-s=input("数字入力して")
-s=int(s)
- def f(s)
+    return s/2
+
+def gg(s):
+    return s*4
+
+s=int(input("数字入れて"))
+b=f(s)
+c=gg(b)
+print(c)
+
+
+
 
 
 
