@@ -14,4 +14,4 @@ while True:
 
     except ValueError:
         print("数字か'q'を入力してください")
-
+ 

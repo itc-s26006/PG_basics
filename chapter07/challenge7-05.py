@@ -5,4 +5,4 @@ ty=[]
 for i in o:
     for u in p:
          ty.append(i*u)
-print(ty)
+print(ty) 
