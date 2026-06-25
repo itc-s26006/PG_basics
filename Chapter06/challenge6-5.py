@@ -1,6 +1,9 @@
-list=["The","fox","jumped","over","the","fence","."]
-list =" ".join(list)
-list=[0:-2] +"."
-print(list)
+a=["The","fox","jumped","over","the","fence","."]
+文字=" ".join(a[0:6])+ a[-1]
+
+print(文字)
+                
+
+
 
 
